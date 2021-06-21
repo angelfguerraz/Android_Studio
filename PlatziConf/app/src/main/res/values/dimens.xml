@@ -6,8 +6,9 @@ sp: Scale pixel, just for text.
 <resources>
     <dimen name="size_height_logo">45dp</dimen>
     <dimen name="size_height_toolbar">30dp</dimen>
-    <dimen name="size_cardCornerRadius">4dp</dimen>
+    <dimen name="size_cardCornerRadius">15dp</dimen>
     <dimen name="size_height_ImageViewHome">150dp</dimen>
     <dimen name="size_title">20sp</dimen>
     <dimen name="margin_HomeSubtitle">10dp</dimen>
+    <dimen name="size_HomeSubtitle">15sp</dimen>
 </resources>
