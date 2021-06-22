@@ -11,4 +11,7 @@ sp: Scale pixel, just for text.
     <dimen name="size_title">20sp</dimen>
     <dimen name="margin_HomeSubtitle">10dp</dimen>
     <dimen name="size_HomeSubtitle">15sp</dimen>
+    <dimen name="size_itemScheduleTitle">30sp</dimen>
+    <dimen name="size_itemScheduleSubtitle">20sp</dimen>
+
 </resources>
