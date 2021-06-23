@@ -15,6 +15,7 @@
     </com.google.android.material.appbar.AppBarLayout>
 
     <FrameLayout
+        android:id="@+id/frameLayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
@@ -64,6 +65,7 @@
                     <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
+                        android:background="@drawable/shape_paragraph"
                         android:orientation="vertical">
 
                         <TextView
@@ -102,11 +104,10 @@
 
                         <TextView
                             android:id="@+id/tvItemScheduleDetailDescription"
-                            android:layout_width="match_parent"
+                            android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_centerInParent="true"
                             android:layout_margin="5dp"
-                            android:gravity="center_horizontal"
+                            android:background="@drawable/shape_topics"
                             android:text="Conf Details"
                             android:textColor="@color/colorPrimary"
                             android:textSize="15sp" />
